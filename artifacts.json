@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/kellyhpark/artifact-directory-template",
+    "project-repository": "https://github.com/kellyhpark/Pole-Validation/tree/main",
+    "project-website-url": "https://brandonluong.github.io/CERA/",
+    "project-website-code": "https://github.com/BrandonLuong/CERA"
 }
